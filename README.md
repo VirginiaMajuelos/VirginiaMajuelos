@@ -17,7 +17,7 @@ I love building from scratch and for this reason I started to learn Code
 
 ## Love:
 
-*Tech Word 🕹
-*Sports🏄🏻‍♀️
-*Travel 🚌
-*and Family 👨‍👩‍👦‍👦
+* Tech Word 🕹
+* Sports🏄🏻‍♀️
+* Travel 🚌
+* and Family 👨‍👩‍👦‍👦
