@@ -1,6 +1,6 @@
 # Hey 💻 !
 
-I'm Virginia Majuelos, Full Stack Developer since 2021 with IronHack.
+I'm Virginia Majuelos, Frontend Developer and Full Stack Developer since 2021 with IronHack.
 
 
 I love building from scratch and for this reason I started to learn Code 
@@ -9,11 +9,15 @@ I love building from scratch and for this reason I started to learn Code
 * HTML5
 * CSS
 * JAVASCRIPT
+* HANDLEBARS
 * REACT
 * BOOSTRAP
+* SASS
+* TAILWIND CSS
 * MONGODB
 * NODE JS
 * EXPRESS
+* WORDPRESS
 
 ## Love:
 
