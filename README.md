@@ -5,7 +5,7 @@ I'm Virginia Majuelos, Frontend Developer since 2021.
 - ⚒ I love building from scratch and for this reason I started to learn Code 
 - 🔋 Crazy about challenges: Always with a lot of energy and desire to learn
 - ✉️ How to reach me in virginia.majuelos@gmail.com
-- Website: https://virginiamajuelos.github.io/website-virginiaMajuelos/
+- 💻 Website: https://virginiamajuelos.github.io/website-virginiaMajuelos/
 
 😃 Talk later?
 
